@@ -15,7 +15,6 @@ Editing an existing Model
 While creating an entire Model from scratch is possible it would be an extremely long and tedious task. Instead its recommended to use an existing Model as your base.
 
 
-
 Prequisites
 -----------
 •	`Blender <https://www.blender.org/download/>`__ (min. 2.92)
@@ -98,7 +97,7 @@ We will use it to combine the MDL file with the other output files from Crowbar.
 Harmony VPK
 -----------
 
-Harmony VPK is a tool written by the Harmony Team. Its an Electron based GUI for VPKTool. It is used to extract files from VPK files.
+Harmony VPK is a tool written by the Harmony Team. It's an electron-based GUI for VPKTool, and is used to extract files from VPK files.
 
 We will use it to extract the model from the game files.
 
