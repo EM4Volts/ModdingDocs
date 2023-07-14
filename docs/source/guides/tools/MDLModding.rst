@@ -67,6 +67,8 @@ Its relatively quick but shows the process quite well.
 
 .. youtube:: mZg5AlWvXZs
 
+Video created by headassbtw
+
 Blender
 -------
 
@@ -293,6 +295,13 @@ Step 8: Combining model files
 - Press the ``Check`` button.
 - Press the ``Convert`` button.
 - MDLShit will now combine the files into a single ``_conv.mdl`` file, this is our final exported and working model you can now close MDLShit and use that model in a mod.
+
+
+
+Crowbar Debugging and Help
+--------------------------
+
+
 
 
 
