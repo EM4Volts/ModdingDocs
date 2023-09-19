@@ -1,5 +1,7 @@
+.. _async-doc:
+
 Threads, Signals and Flags
-============================
+==========================
 
 Threads
 ------- 
@@ -293,6 +295,8 @@ Flags
     Raise a flag if it is reset, or reset it if it's raised.
 
 .. cpp:function:: void FlagEnd( string flag )
+
+    Ends this thread when the flag is set
 
 .. cpp:function:: bool Flag( string flag )
 

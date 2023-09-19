@@ -12,7 +12,8 @@ Northstar API
     /reference/northstar/httprequests
     /reference/northstar/msinterface
     /reference/northstar/usefulfuncs
-    /reference/northstar/modsettings.rst
+    /reference/northstar/modsettings
+    /reference/northstar/safeio
 
 Respawn API
 ===========
@@ -20,6 +21,7 @@ Respawn API
 .. toctree::
     :maxdepth: 2
 
+    /reference/respawn/native_server/index
     /reference/respawn/callbacks
     /reference/respawn/player
     /reference/respawn/entities
@@ -27,8 +29,8 @@ Respawn API
     /reference/respawn/topology
     /reference/respawn/clientcommands
     /reference/respawn/movers
-    /reference/respawn/damageinfo
-    /reference/respawn/debugdraw
+    /reference/respawn/dialog
+    /reference/respawn/damagehistory
 
 HUD
 ===
